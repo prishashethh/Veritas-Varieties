@@ -49,9 +49,11 @@ First, ensure the following package dependencies are downloaded:
 
 To start the Flask server, run:
 ` flask run `
+
 Then open the webpage on the local port that appears.
 To see the processing of the emails.txt file, look at the bottom of the page.
 As a supplemental demonstration of our work, we have several functions and a large commented-out block of `backend.py`, which, though incomplete, in the terminal window, demonstrates serious progress in extracting email bodies and sending them through Gemini AI for processing.
+
 ---
 ## Usage Guide
 
