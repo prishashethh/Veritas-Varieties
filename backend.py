@@ -5,17 +5,6 @@
 # - pip install google-generativeai (for Gemini API)
 # - pip install logging (for logging purposes. This was suggested as an error management mechanism)
 # Both of the API calls have been limited below the paid threshold
-# Secure authentication keys:
-# C6D2BGDVRB
-# JXG5NHPHMU
-# SWMQQWUDGJ
-# FQ94F7MUHP
-# 6JQ9NJQMTJ
-# 7S58TDVFV3
-# RFWWA9A2TQ
-# SSJ47HX5EW
-# A64V9H9MNX
-# 4RVAJ6AV68
 
 import os
 import logging
